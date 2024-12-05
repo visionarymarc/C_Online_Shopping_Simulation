@@ -28,7 +28,7 @@ This repository contains a C-based interactive program simulating an **online sh
 
 2. Build the program:
   ```bash
-   make
+  make
 
 3. Run the program with sample input:
   ```bash
@@ -43,6 +43,7 @@ This repository contains a C-based interactive program simulating an **online sh
   -r: Reverse order.
   -f <file>: Load products from a file.
   -t <tax_rate>: Set custom tax rate.
+
 - **Interactive Commands:** 
   - SKU: Search for a product by SKU.
   - L: List all products in the inventory.
